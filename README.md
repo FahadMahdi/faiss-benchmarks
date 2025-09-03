@@ -1,10 +1,7 @@
----
-
-# FAISS Benchmarks (9472-D)
+## FAISS Benchmarks (9472-D)
 
 Short, reproducible benchmarks for **exact** and **approximate** nearest-neighbor search using **FAISS**. Focus: **9,472-dim** embeddings at **10k–100k** scale, tested on a Windows laptop (CPU) and compared to WS1.
 
----
 
 ## ⚙️ Requirements
 
